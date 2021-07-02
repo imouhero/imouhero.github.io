@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">白色时间染</title>
+    <subtitle type="html"></subtitle>
+    <updated>2021-07-02T11:40:08&#43;08:00</updated>
+    <id>https://imouhero.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://imouhero.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://imouhero.github.io/atom.xml" />
+    <author>
+            <name>mou</name>
+            <uri>https://imouhero.github.io/</uri>
+            
+                <email>yuqiang.miao@outlook.com</email>
+            </author>
+    
+    <generator uri="https://gohugo.io/" version="0.84.0">Hugo</generator>
+        <entry>
+            <title type="text">Hello, World!</title>
+            <link rel="alternate" type="text/html" href="https://imouhero.github.io/archives/tech/hello-world/" />
+            <id>https://imouhero.github.io/archives/tech/hello-world/</id>
+            <updated>2021-07-02T10:58:39&#43;08:00</updated>
+            <published>2021-06-26T00:00:00&#43;08:00</published>
+            <author>
+                    <name>mou</name>
+                    <uri>https://imouhero.github.io/</uri>
+                    <email>yuqiang.miao@outlook.com</email>
+                    </author>
+            <summary type="html"></summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://imouhero.github.io/images/hello-world.jpg&#34; width=&#34;80%&#34; /&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://imouhero.github.io/archives/tech/" term="archives\Tech\" label="archives\Tech\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+</feed>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>白色时间染</title>
+        <link>https://imouhero.github.io/</link>
+        <description></description>
+        <generator>Hugo 0.84.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>yuqiang.miao@outlook.com (mou)</managingEditor>
+        
+        
+            <webMaster>yuqiang.miao@outlook.com (mou)</webMaster>
+        
+        
+        <lastBuildDate>Fri, 02 Jul 2021 11:40:08 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://imouhero.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Hello, World!</title>
+                <link>https://imouhero.github.io/archives/tech/hello-world/</link>
+                <guid isPermaLink="true">https://imouhero.github.io/archives/tech/hello-world/</guid>
+                <pubDate>Sat, 26 Jun 2021 00:00:00 &#43;0800</pubDate>
+                
+                    <author>yuqiang.miao@outlook.com (mou)</author>
+                
+                
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://imouhero.github.io/images/hello-world.jpg&#34; width=&#34;80%&#34; /&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://imouhero.github.io/archives/tech/">archives\Tech\</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
