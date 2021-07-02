@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白色时间染</title>
     <subtitle type="html"></subtitle>
-    <updated>2021-07-02T12:47:22&#43;08:00</updated>
+    <updated>2021-07-02T22:44:26&#43;08:00</updated>
     <id>https://imouhero.github.io/</id>
     <link rel="alternate" type="text/html" href="https://imouhero.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://imouhero.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Hello, World!</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/archives/tech/hello-world/" />
             <id>https://imouhero.github.io/archives/tech/hello-world/</id>
-            <updated>2021-07-02T10:58:39&#43;08:00</updated>
+            <updated>2021-07-02T22:29:38&#43;08:00</updated>
             <published>2021-06-26T00:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -41,7 +41,15 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/archives/tech/" term="archives\Tech\" label="archives\Tech\" />
+                            <category scheme="https://imouhero.github.io/archives/" term="archives" label="archives" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://imouhero.github.io/archives/tech/" term="Tech" label="Tech" />
                         
                     
                 

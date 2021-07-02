@@ -21,7 +21,7 @@
             <webMaster>yuqiang.miao@outlook.com (mou)</webMaster>
         
         
-        <lastBuildDate>Fri, 02 Jul 2021 12:47:22 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 22:44:26 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://imouhero.github.io/rss.xml" />
         
@@ -48,7 +48,15 @@
                         
                         
                             
-                                <category domain="https://imouhero.github.io/archives/tech/">archives\Tech\</category>
+                                <category domain="https://imouhero.github.io/archives/">archives</category>
+                            
+                        
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://imouhero.github.io/archives/tech/">Tech</category>
                             
                         
                     
