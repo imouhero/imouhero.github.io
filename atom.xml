@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白色时间染</title>
     <subtitle type="html"></subtitle>
-    <updated>2021-07-04T23:35:25&#43;08:00</updated>
+    <updated>2021-07-05T23:55:03&#43;08:00</updated>
     <id>https://imouhero.github.io/</id>
     <link rel="alternate" type="text/html" href="https://imouhero.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://imouhero.github.io/atom.xml" />
@@ -16,6 +16,63 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.84.0">Hugo</generator>
+        <entry>
+            <title type="text">《我与梅花两白头》</title>
+            <link rel="alternate" type="text/html" href="https://imouhero.github.io/archives/excerpt/%E6%88%91%E4%B8%8E%E6%A2%85%E8%8A%B1%E4%B8%A4%E7%99%BD%E5%A4%B4/" />
+            <id>https://imouhero.github.io/archives/excerpt/%E6%88%91%E4%B8%8E%E6%A2%85%E8%8A%B1%E4%B8%A4%E7%99%BD%E5%A4%B4/</id>
+            <updated>2021-07-05T23:54:46&#43;08:00</updated>
+            <published>2021-07-05T09:00:00&#43;08:00</published>
+            <author>
+                    <name>mou</name>
+                    <uri>https://imouhero.github.io/</uri>
+                    <email>yuqiang.miao@outlook.com</email>
+                    </author>
+            <summary type="html">节选一： 你应当是恣肆快意的，踏着一月的初阳，乘着二月的和风，顶着三月的冷雨，饮着四月的山河 你应当是无……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;节选一：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你应当是恣肆快意的，踏着一月的初阳，乘着二月的和风，顶着三月的冷雨，饮着四月的山河&lt;/p&gt;
+&lt;p&gt;你应当是无忧超然的，伴着五月的月色，抚着六月的湖泊，牵着七月的野马，写着八月的景色&lt;/p&gt;
+&lt;p&gt;你应当走的顺遂寡薄，不听十月的琴鸣，不理十一月的萧索&lt;/p&gt;
+&lt;p&gt;到了十二月，你就随着白雪，荡然归程吧&lt;/p&gt;
+&lt;p&gt;别再管朝阳月色，别再管山川荒漠，更别再来询问我的静默&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;节选二：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我开始很认真的思考缘分这个词的含义&lt;/p&gt;
+&lt;p&gt;你想要的 岁月都会给你 是真的如此&lt;/p&gt;
+&lt;p&gt;我独来独往 一人行走之时 也未敢贪婪祈愿&lt;/p&gt;
+&lt;p&gt;有人能将我视为羁绊 承诺太多会使思想僵化 语言退步 反应迟缓&lt;/p&gt;
+&lt;p&gt;如不能给你全部的关怀 我宁愿恪守己见 完全保留&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://imouhero.github.io/archives/" term="archives" label="archives" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://imouhero.github.io/archives/excerpt/" term="Excerpt" label="Excerpt" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Í Annan Heim</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/archives/life/2021-07-02-%C3%AD-annan-heim/" />
