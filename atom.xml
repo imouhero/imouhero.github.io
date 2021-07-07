@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白色时间染</title>
     <subtitle type="html"></subtitle>
-    <updated>2021-07-06T21:49:09&#43;08:00</updated>
+    <updated>2021-07-07T09:09:53&#43;08:00</updated>
     <id>https://imouhero.github.io/</id>
     <link rel="alternate" type="text/html" href="https://imouhero.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://imouhero.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">《我与梅花两白头》</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/excerpt/%E6%88%91%E4%B8%8E%E6%A2%85%E8%8A%B1%E4%B8%A4%E7%99%BD%E5%A4%B4/" />
             <id>https://imouhero.github.io/posts/excerpt/%E6%88%91%E4%B8%8E%E6%A2%85%E8%8A%B1%E4%B8%A4%E7%99%BD%E5%A4%B4/</id>
-            <updated>2021-07-06T21:48:15&#43;08:00</updated>
+            <updated>2021-07-07T09:09:03&#43;08:00</updated>
             <published>2021-07-05T09:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -52,15 +52,7 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
-                        
-                    
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://imouhero.github.io/posts/excerpt/" term="Excerpt" label="Excerpt" />
+                            <category scheme="https://imouhero.github.io/posts/excerpt/" term="posts\Excerpt\" label="posts\Excerpt\" />
                         
                     
                 
@@ -77,7 +69,7 @@
             <title type="text">我24岁了！</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/life/24th-birthday/" />
             <id>https://imouhero.github.io/posts/life/24th-birthday/</id>
-            <updated>2021-07-06T21:35:30&#43;08:00</updated>
+            <updated>2021-07-07T09:09:42&#43;08:00</updated>
             <published>2021-07-04T09:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -95,7 +87,6 @@
 &lt;p&gt;&lt;img src=&#34;https://imouhero.github.io/images/%E5%A4%B1%E5%8E%BB%E7%BF%85%E8%86%80%E7%9A%84%E9%B8%9F.jpg&#34; alt=&#34;失去翅膀的鸟&#34; title=&#34;失去翅膀的鸟&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我没有过多的评价，默默地离开了。也许会有人说不应该这样对待自由象征的小鸟，但与众不同的它又能飞向哪里怎么好好地活着呢？只要它过得快乐，我又还能说什么。换做我，从一开始就不会去养它吧，大自然才是它的家。&lt;/p&gt;
 &lt;p&gt;待我回到山脚，太阳也快下山了，徐徐的微风此刻又温柔了谁人的心呢。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://imouhero.github.io/images/%E5%B2%91%E6%9D%91%E6%B0%B4%E5%BA%93.jpg&#34; alt=&#34;岑村水库&#34; title=&#34;岑村水库&#34;&gt;&lt;/p&gt;
 </content>
             
             
@@ -107,15 +98,7 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
-                        
-                    
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://imouhero.github.io/posts/life/" term="Life" label="Life" />
+                            <category scheme="https://imouhero.github.io/posts/life/" term="posts\Life\" label="posts\Life\" />
                         
                     
                 
@@ -132,7 +115,7 @@
             <title type="text">Í Annan Heim</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/life/%C3%AD-annan-heim/" />
             <id>https://imouhero.github.io/posts/life/%C3%AD-annan-heim/</id>
-            <updated>2021-07-06T20:07:34&#43;08:00</updated>
+            <updated>2021-07-07T09:09:03&#43;08:00</updated>
             <published>2021-07-02T09:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -157,15 +140,7 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
-                        
-                    
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://imouhero.github.io/posts/life/" term="Life" label="Life" />
+                            <category scheme="https://imouhero.github.io/posts/life/" term="posts\Life\" label="posts\Life\" />
                         
                     
                 
