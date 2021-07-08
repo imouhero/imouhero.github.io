@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白色时间染</title>
     <subtitle type="html"></subtitle>
-    <updated>2021-07-07T09:09:53&#43;08:00</updated>
+    <updated>2021-07-09T00:36:19&#43;08:00</updated>
     <id>https://imouhero.github.io/</id>
     <link rel="alternate" type="text/html" href="https://imouhero.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://imouhero.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">《我与梅花两白头》</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/excerpt/%E6%88%91%E4%B8%8E%E6%A2%85%E8%8A%B1%E4%B8%A4%E7%99%BD%E5%A4%B4/" />
             <id>https://imouhero.github.io/posts/excerpt/%E6%88%91%E4%B8%8E%E6%A2%85%E8%8A%B1%E4%B8%A4%E7%99%BD%E5%A4%B4/</id>
-            <updated>2021-07-07T09:09:03&#43;08:00</updated>
+            <updated>2021-07-06T21:48:15&#43;08:00</updated>
             <published>2021-07-05T09:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -52,7 +52,15 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/excerpt/" term="posts\Excerpt\" label="posts\Excerpt\" />
+                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://imouhero.github.io/posts/excerpt/" term="Excerpt" label="Excerpt" />
                         
                     
                 
@@ -69,7 +77,7 @@
             <title type="text">我24岁了！</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/life/24th-birthday/" />
             <id>https://imouhero.github.io/posts/life/24th-birthday/</id>
-            <updated>2021-07-07T09:09:42&#43;08:00</updated>
+            <updated>2021-07-08T23:07:45&#43;08:00</updated>
             <published>2021-07-04T09:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -98,7 +106,15 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/life/" term="posts\Life\" label="posts\Life\" />
+                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://imouhero.github.io/posts/life/" term="Life" label="Life" />
                         
                     
                 
@@ -115,7 +131,7 @@
             <title type="text">Í Annan Heim</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/life/%C3%AD-annan-heim/" />
             <id>https://imouhero.github.io/posts/life/%C3%AD-annan-heim/</id>
-            <updated>2021-07-07T09:09:03&#43;08:00</updated>
+            <updated>2021-07-06T20:07:34&#43;08:00</updated>
             <published>2021-07-02T09:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -140,7 +156,93 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/life/" term="posts\Life\" label="posts\Life\" />
+                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://imouhero.github.io/posts/life/" term="Life" label="Life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">关于人的思考</title>
+            <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/life/thinking-about-human/" />
+            <id>https://imouhero.github.io/posts/life/thinking-about-human/</id>
+            <updated>2021-07-09T00:35:54&#43;08:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <name>mou</name>
+                    <uri>https://imouhero.github.io/</uri>
+                    <email>yuqiang.miao@outlook.com</email>
+                    </author>
+            <summary type="html">我对于人类的思考，从上初中那会到现在都没有停止过，也许以后也不会停止，正因如此，这是一篇一时无法完结……</summary>
+            
+                <content type="html">&lt;p&gt;我对于人类的思考，从上初中那会到现在都没有停止过，也许以后也不会停止，正因如此，这是一篇一时无法完结的博文。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;2021.07.06&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;人的一生到底要追求什么？似乎是一个没有确切答案的问题，想做什么就去做什么。但真的吗？是的，只不过要承受与之伴随的代价，而且还未必能做成。我们是自由的，但这是有限的自由，因为我们在一个有“游戏规则”的世界，无论是物理规则也好，还是人情世故也好，或者法律约束也罢。我们可以选择不遵守规则，但也必须接受不遵守的后果。如此可以想象，我们人生的选择不再是十字路口的四条路，而是一个指向360度的任意方向，并且许多方向还被规则标明了它的代价，至于是否标明，标明是否清晰，还要取决于自身的认知。所以人到底要追求什么这个问题似乎还是取决于人的内部机理。&lt;/p&gt;
+&lt;p&gt;驱使人活下去的是什么？是对死亡的恐惧，是对快乐的渴望。那些自杀的人怎么了？他们对死亡不再恐惧了吗？他们不再怕疼了吗？我想应该是痛苦和快乐达到了阈值，身体麻痹了疼的感觉。为什么快乐也会让人自杀呢？这还真得好好理解一番。这里的快乐应该不单只是内心的喜悦、笑容满面等，还应该包括充实感、自豪感、荣誉感等，所以那些牺牲自我的人从某中角度上说是快乐的。据我从纪录片里所了解到的，为保护同类的牺牲举动在羚羊身上也会出现。&lt;/p&gt;
+&lt;p&gt;所以我们追求的东西是让自己感到快乐呢？还是痛苦呢？还是两者都有呢？如果能用快乐和痛苦量化我们所做的每一件事，那该多好。快乐的强度、宽度和长度分别记为😃s、😃w、😃l，痛苦的强度、宽度和长度分别记为😖s、😖w、😖l，则有（数字我乱取的）：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;上班：😃s = 1, 😃w = 1, 😃l = 2, 😖s = 5, 😖w = 2, 😖l = 3&lt;/li&gt;
+&lt;li&gt;上课：😃s = 3, 😃w = 4, 😃l = 2, 😖s = 4, 😖w = 2, 😖l = 2&lt;/li&gt;
+&lt;li&gt;刷B站：😃s = 1, 😃w = 2, 😃l = 3, 😖s = 2, 😖w = 2, 😖l = 2&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;为了增加快乐的长度，我必须好好锻炼，调整作息，节制饮食，及时就医，尽量保持身心愉快，让自己活得久一点。为了增加快乐的广度，我不但研究学术，而且看网文，甚至刷抖音。凡是新鲜的事物，只要条件允许，就去尝试一下，说不定就能找到新的快乐源泉。为了增加快乐的深度，我减少刷抖音的时间，增加看经典作品的时间，增加看理论著作的时间。因为抖音带给我的快乐太浅太快太容易消失，也太容易疲倦，不具备思想的共鸣和情感的迸发所带来的快乐（更有深度、强度、耐久度，犹如余音绕梁三日不绝）。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://imouhero.github.io/posts/life/thinking-about-human/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;2021.07.07&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;对知识的追求是无止境的，我们的知识也不是连续的，如果世间有一幅绘制了所有知识总览的画，那我们就是在拼接这些画吧。或零碎或连续的拼图构成了你我看待这个世界和生存的依据。有限的生命，又如何去挖掘未知的拼图，还真的是值得推敲呢。毕竟努力的方向往往比努力似乎更重要。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;2021.07.08&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;在我寻求兼职的路上，我深感信息差、体能差、资源差等等差，在划分着这个世界的你我，即便是两个相爱的人，也难以避免认知的差异。如此，我越发得谨慎，越发得不自信，也许我不应该以我所知去完全认定一件事、一个人，在没有彻彻底底的看清之前，当前的认知都且作为暂时的。&lt;/p&gt;
+&lt;p&gt;看着身边的路人如此自信地说着、做着他们认定的事，也许这就是生命的美妙之处吧，上了发条般地按基因的风格行特立独行地行走着。&lt;/p&gt;
+&lt;p&gt;可我们没法保证自己一直是清晰明朗的，我们又该如何规避自己被自己导向痛苦的道路呢？我暂时只想到放慢自己的生活节奏，不轻易地说和做。&lt;/p&gt;
+&lt;p&gt;曾经和一位网友聊过，人活着最好的状态是保持属于自己的平衡，而明白什么是属于自己的平衡需要自我对自我有深刻的认识。有人能吃三勺辣椒而不出事，而有人吃一小勺辣椒便辣地直打滚。有了深刻的认识还得学会克制自己，在如何克制自己的方法上，我也提议去放慢自己的生活节奏，因为惯性我们往往不能自己，因为一个失衡而造成另一个失衡。&lt;/p&gt;
+&lt;p&gt;对自己的认知差，对他人的认知差，对世界万物的认知差，造就了人们千奇百怪的梦想和为之实践的言行举止。&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/38869606/answer/1571225919&#34;&gt;https://www.zhihu.com/question/38869606/answer/1571225919&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://imouhero.github.io/posts/life/thinking-about-human/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://imouhero.github.io/posts/life/" term="Life" label="Life" />
                         
                     
                 
