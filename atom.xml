@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白色时间染</title>
     <subtitle type="html"></subtitle>
-    <updated>2021-07-09T00:36:19&#43;08:00</updated>
+    <updated>2021-07-09T08:58:30&#43;08:00</updated>
     <id>https://imouhero.github.io/</id>
     <link rel="alternate" type="text/html" href="https://imouhero.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://imouhero.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">《我与梅花两白头》</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/excerpt/%E6%88%91%E4%B8%8E%E6%A2%85%E8%8A%B1%E4%B8%A4%E7%99%BD%E5%A4%B4/" />
             <id>https://imouhero.github.io/posts/excerpt/%E6%88%91%E4%B8%8E%E6%A2%85%E8%8A%B1%E4%B8%A4%E7%99%BD%E5%A4%B4/</id>
-            <updated>2021-07-06T21:48:15&#43;08:00</updated>
+            <updated>2021-07-07T09:09:03&#43;08:00</updated>
             <published>2021-07-05T09:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -52,15 +52,7 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
-                        
-                    
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://imouhero.github.io/posts/excerpt/" term="Excerpt" label="Excerpt" />
+                            <category scheme="https://imouhero.github.io/posts/excerpt/" term="posts\Excerpt\" label="posts\Excerpt\" />
                         
                     
                 
@@ -77,7 +69,7 @@
             <title type="text">我24岁了！</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/life/24th-birthday/" />
             <id>https://imouhero.github.io/posts/life/24th-birthday/</id>
-            <updated>2021-07-08T23:07:45&#43;08:00</updated>
+            <updated>2021-07-07T09:09:42&#43;08:00</updated>
             <published>2021-07-04T09:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -106,15 +98,7 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
-                        
-                    
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://imouhero.github.io/posts/life/" term="Life" label="Life" />
+                            <category scheme="https://imouhero.github.io/posts/life/" term="posts\Life\" label="posts\Life\" />
                         
                     
                 
@@ -131,7 +115,7 @@
             <title type="text">Í Annan Heim</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/life/%C3%AD-annan-heim/" />
             <id>https://imouhero.github.io/posts/life/%C3%AD-annan-heim/</id>
-            <updated>2021-07-06T20:07:34&#43;08:00</updated>
+            <updated>2021-07-07T09:09:03&#43;08:00</updated>
             <published>2021-07-02T09:00:00&#43;08:00</published>
             <author>
                     <name>mou</name>
@@ -156,15 +140,7 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
-                        
-                    
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://imouhero.github.io/posts/life/" term="Life" label="Life" />
+                            <category scheme="https://imouhero.github.io/posts/life/" term="posts\Life\" label="posts\Life\" />
                         
                     
                 
@@ -181,7 +157,7 @@
             <title type="text">关于人的思考</title>
             <link rel="alternate" type="text/html" href="https://imouhero.github.io/posts/life/thinking-about-human/" />
             <id>https://imouhero.github.io/posts/life/thinking-about-human/</id>
-            <updated>2021-07-09T00:35:54&#43;08:00</updated>
+            <updated>2021-07-09T08:58:21&#43;08:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>mou</name>
@@ -211,7 +187,7 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;2021.07.08&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;在我寻求兼职的路上，我深感信息差、体能差、资源差等等差，在划分着这个世界的你我，即便是两个相爱的人，也难以避免认知的差异。如此，我越发得谨慎，越发得不自信，也许我不应该以我所知去完全认定一件事、一个人，在没有彻彻底底的看清之前，当前的认知都且作为暂时的。&lt;/p&gt;
-&lt;p&gt;看着身边的路人如此自信地说着、做着他们认定的事，也许这就是生命的美妙之处吧，上了发条般地按基因的风格行特立独行地行走着。&lt;/p&gt;
+&lt;p&gt;看着身边的路人如此自信地说着、做着他们认定的事，也许这就是生命的美妙之处吧，上了发条般地按基因的风格特立独行地行走着。&lt;/p&gt;
 &lt;p&gt;可我们没法保证自己一直是清晰明朗的，我们又该如何规避自己被自己导向痛苦的道路呢？我暂时只想到放慢自己的生活节奏，不轻易地说和做。&lt;/p&gt;
 &lt;p&gt;曾经和一位网友聊过，人活着最好的状态是保持属于自己的平衡，而明白什么是属于自己的平衡需要自我对自我有深刻的认识。有人能吃三勺辣椒而不出事，而有人吃一小勺辣椒便辣地直打滚。有了深刻的认识还得学会克制自己，在如何克制自己的方法上，我也提议去放慢自己的生活节奏，因为惯性我们往往不能自己，因为一个失衡而造成另一个失衡。&lt;/p&gt;
 &lt;p&gt;对自己的认知差，对他人的认知差，对世界万物的认知差，造就了人们千奇百怪的梦想和为之实践的言行举止。&lt;/p&gt;
@@ -234,15 +210,7 @@
                     
                     
                         
-                            <category scheme="https://imouhero.github.io/posts/" term="posts" label="posts" />
-                        
-                    
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://imouhero.github.io/posts/life/" term="Life" label="Life" />
+                            <category scheme="https://imouhero.github.io/posts/life/" term="posts\Life\" label="posts\Life\" />
                         
                     
                 
